@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 795 358">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-width: .6px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57, .st58, .st59, .st60, .st61, .st62, .st63, .st64, .st65, .st66, .st67, .st68, .st69, .st70, .st71, .st72, .st73, .st74, .st75, .st76, .st77, .st78, .st79, .st80, .st81, .st82, .st83, .st84, .st85, .st86, .st87, .st88, .st89, .st90, .st91, .st92, .st93, .st94, .st95, .st96, .st97, .st98, .st99, .st100, .st101, .st102, .st103, .st104, .st105, .st106, .st107, .st108, .st109, .st110, .st111, .st112, .st113, .st114, .st115, .st116, .st117, .st118, .st119, .st120, .st121, .st122, .st123, .st124, .st125, .st126, .st127, .st128, .st129, .st130, .st131, .st132, .st133, .st134, .st135, .st136, .st137, .st138, .st139, .st140, .st141, .st142, .st143, .st144, .st145, .st146, .st147, .st148, .st149, .st150, .st151, .st152, .st153, .st154, .st155, .st156, .st157, .st158, .st159, .st160 {
+        fill: none;
+        stroke-miterlimit: 2.2;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57, .st58, .st59, .st60, .st61, .st62, .st63, .st64, .st65, .st66, .st67, .st68, .st69, .st71, .st72, .st73, .st74, .st75, .st76, .st77, .st78, .st80, .st81, .st82, .st83, .st84, .st85, .st86, .st87, .st88, .st89, .st90, .st91, .st92, .st93, .st94, .st95, .st96, .st97, .st98, .st99, .st100, .st101, .st102, .st103, .st104, .st105, .st106, .st107, .st108, .st109, .st110, .st111, .st112, .st113, .st114, .st115, .st116, .st117, .st118, .st119, .st120, .st121, .st122, .st123, .st124, .st125, .st126, .st127, .st128, .st129, .st130, .st131, .st132, .st133, .st134, .st135, .st136, .st137, .st138, .st139, .st140, .st141, .st142, .st143, .st144, .st145, .st146, .st147, .st148, .st149, .st150, .st151, .st152, .st153, .st154, .st155, .st156, .st157, .st158, .st159, .st160 {
+        stroke-linecap: round;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57, .st63, .st64, .st65, .st66, .st72, .st79, .st80, .st89, .st90, .st92, .st98, .st110, .st112, .st123, .st131, .st133, .st134, .st136, .st139, .st142, .st144, .st146, .st149, .st150, .st156, .st159 {
+        stroke: #d94801;
+      }
+
+      .st1 {
+        stroke-width: .5px;
+      }
+
+      .st2 {
+        stroke-width: .6px;
+      }
+
+      .st3 {
+        stroke-width: .3px;
+      }
+
+      .st4 {
+        stroke-width: .4px;
+      }
+
+      .st5, .st132 {
+        stroke-width: .4px;
+      }
+
+      .st6 {
+        stroke-width: .3px;
+      }
+
+      .st7 {
+        stroke-width: .4px;
+      }
+
+      .st8, .st113 {
+        stroke-width: .4px;
+      }
+
+      .st9, .st111 {
+        stroke-width: .5px;
+      }
+
+      .st10, .st121 {
+        stroke-width: .4px;
+      }
+
+      .st11 {
+        stroke-width: .4px;
+      }
+
+      .st12, .st118 {
+        stroke-width: .3px;
+      }
+
+      .st13, .st105 {
+        stroke-width: .2px;
+      }
+
+      .st14 {
+        stroke-width: .2px;
+      }
+
+      .st15 {
+        stroke-width: .3px;
+      }
+
+      .st16, .st109 {
+        stroke-width: .3px;
+      }
+
+      .st17 {
+        stroke-width: .3px;
+      }
+
+      .st18 {
+        stroke-width: .3px;
+      }
+
+      .st19 {
+        stroke-width: .2px;
+      }
+
+      .st20 {
+        stroke-width: .3px;
+      }
+
+      .st21 {
+        stroke-width: .3px;
+      }
+
+      .st22, .st107 {
+        stroke-width: .2px;
+      }
+
+      .st23, .st106 {
+        stroke-width: .2px;
+      }
+
+      .st24, .st99 {
+        stroke-width: .2px;
+      }
+
+      .st25 {
+        stroke-width: .2px;
+      }
+
+      .st26, .st101 {
+        stroke-width: .1px;
+      }
+
+      .st27, .st100 {
+        stroke-width: .2px;
+      }
+
+      .st28 {
+        stroke-width: 1.4px;
+      }
+
+      .st29 {
+        stroke-width: 1.7px;
+      }
+
+      .st30 {
+        stroke-width: 1.7px;
+      }
+
+      .st31 {
+        stroke-width: 1.7px;
+      }
+
+      .st32 {
+        stroke-width: 1.8px;
+      }
+
+      .st33 {
+        stroke-width: 1.6px;
+      }
+
+      .st34 {
+        stroke-width: 1.7px;
+      }
+
+      .st35 {
+        stroke-width: 1.6px;
+      }
+
+      .st36 {
+        stroke-width: 1px;
+      }
+
+      .st37, .st151 {
+        stroke-width: 1px;
+      }
+
+      .st38 {
+        stroke-width: 1.2px;
+      }
+
+      .st39 {
+        stroke-width: 1.2px;
+      }
+
+      .st40 {
+        stroke-width: 1.3px;
+      }
+
+      .st41 {
+        stroke-width: 1.3px;
+      }
+
+      .st42 {
+        stroke-width: 1.1px;
+      }
+
+      .st43 {
+        stroke-width: 1.2px;
+      }
+
+      .st44 {
+        stroke-width: .7px;
+      }
+
+      .st45, .st137 {
+        stroke-width: .6px;
+      }
+
+      .st46 {
+        stroke-width: .7px;
+      }
+
+      .st47 {
+        stroke-width: .9px;
+      }
+
+      .st48 {
+        stroke-width: .9px;
+      }
+
+      .st49 {
+        stroke-width: .9px;
+      }
+
+      .st50 {
+        stroke-width: .9px;
+      }
+
+      .st51, .st143 {
+        stroke-width: .8px;
+      }
+
+      .st52 {
+        stroke-width: .8px;
+      }
+
+      .st53 {
+        stroke-width: .5px;
+      }
+
+      .st54 {
+        stroke-width: .8px;
+      }
+
+      .st55 {
+        stroke-width: .5px;
+      }
+
+      .st56 {
+        stroke-width: .5px;
+      }
+
+      .st57, .st141 {
+        stroke-width: .5px;
+      }
+
+      .st58, .st59, .st60, .st61, .st62, .st67, .st68, .st69, .st70, .st71, .st73, .st74, .st75, .st76, .st77, .st78, .st81, .st82, .st83, .st84, .st85, .st86, .st87, .st88, .st91, .st93, .st94, .st95, .st96, .st97, .st99, .st100, .st101, .st102, .st103, .st104, .st105, .st106, .st107, .st108, .st109, .st111, .st113, .st114, .st115, .st116, .st117, .st118, .st119, .st120, .st121, .st122, .st124, .st125, .st126, .st127, .st128, .st129, .st130, .st132, .st135, .st137, .st138, .st140, .st141, .st143, .st145, .st147, .st148, .st151, .st152, .st153, .st154, .st155, .st157, .st158, .st160 {
+        stroke: #3690c0;
+      }
+
+      .st58, .st131 {
+        stroke-width: .1px;
+      }
+
+      .st59 {
+        stroke-width: 0px;
+      }
+
+      .st60 {
+        stroke-width: 0px;
+      }
+
+      .st61 {
+        stroke-width: 0px;
+      }
+
+      .st62, .st133 {
+        stroke-width: 0px;
+      }
+
+      .st161, .st162 {
+        font-size: 6px;
+      }
+
+      .st161, .st162, .st163, .st164 {
+        font-family: Helvetica, Helvetica;
+        isolation: isolate;
+      }
+
+      .st63, .st91 {
+        stroke-width: .2px;
+      }
+
+      .st64 {
+        stroke-width: .2px;
+      }
+
+      .st65 {
+        stroke-width: .1px;
+      }
+
+      .st66 {
+        stroke-width: .1px;
+      }
+
+      .st67, .st159 {
+        stroke-width: 0px;
+      }
+
+      .st68 {
+        stroke-width: 0px;
+      }
+
+      .st69, .st98 {
+        stroke-width: 0px;
+      }
+
+      .st70, .st79 {
+        stroke-linecap: square;
+      }
+
+      .st71 {
+        stroke-width: 0px;
+      }
+
+      .st72, .st160 {
+        stroke-width: 0px;
+      }
+
+      .st73, .st150 {
+        stroke-width: 0px;
+      }
+
+      .st74, .st156 {
+        stroke-width: 0px;
+      }
+
+      .st75 {
+        stroke-width: 0px;
+      }
+
+      .st76, .st136 {
+        stroke-width: 0px;
+      }
+
+      .st77, .st142 {
+        stroke-width: 0px;
+      }
+
+      .st78 {
+        stroke-width: 1.9px;
+      }
+
+      .st165 {
+        fill: #ccc;
+      }
+
+      .st80 {
+        stroke-width: 1.9px;
+      }
+
+      .st81 {
+        stroke-width: 1.3px;
+      }
+
+      .st82 {
+        stroke-width: 1px;
+      }
+
+      .st83 {
+        stroke-width: 1px;
+      }
+
+      .st84 {
+        stroke-width: 1px;
+      }
+
+      .st85 {
+        stroke-width: 1.6px;
+      }
+
+      .st86 {
+        stroke-width: 1.7px;
+      }
+
+      .st87 {
+        stroke-width: 1.7px;
+      }
+
+      .st88 {
+        stroke-width: 1.5px;
+      }
+
+      .st166, .st162, .st164 {
+        fill: #fff;
+      }
+
+      .st167 {
+        fill: #ff0;
+      }
+
+      .st168 {
+        fill: #666;
+      }
+
+      .st89 {
+        stroke-width: 0px;
+      }
+
+      .st90 {
+        stroke-width: 0px;
+      }
+
+      .st92 {
+        stroke-width: 0px;
+      }
+
+      .st93 {
+        stroke-width: .1px;
+      }
+
+      .st94 {
+        stroke-width: .2px;
+      }
+
+      .st95 {
+        stroke-width: .2px;
+      }
+
+      .st96 {
+        stroke-width: .2px;
+      }
+
+      .st97 {
+        stroke-width: .2px;
+      }
+
+      .st102 {
+        stroke-width: .2px;
+      }
+
+      .st103 {
+        stroke-width: .2px;
+      }
+
+      .st104 {
+        stroke-width: .3px;
+      }
+
+      .st108 {
+        stroke-width: .3px;
+      }
+
+      .st110 {
+        stroke-width: .1px;
+      }
+
+      .st112 {
+        stroke-width: .1px;
+      }
+
+      .st114 {
+        stroke-width: .4px;
+      }
+
+      .st115 {
+        stroke-width: .4px;
+      }
+
+      .st116 {
+        stroke-width: .3px;
+      }
+
+      .st117 {
+        stroke-width: .3px;
+      }
+
+      .st119 {
+        stroke-width: .3px;
+      }
+
+      .st120 {
+        stroke-width: .4px;
+      }
+
+      .st122 {
+        stroke-width: .4px;
+      }
+
+      .st123 {
+        stroke-width: 0px;
+      }
+
+      .st124 {
+        stroke-width: .6px;
+      }
+
+      .st125 {
+        stroke-width: .6px;
+      }
+
+      .st126 {
+        stroke-width: .6px;
+      }
+
+      .st127 {
+        stroke-width: .6px;
+      }
+
+      .st128 {
+        stroke-width: .5px;
+      }
+
+      .st129 {
+        stroke-width: .5px;
+      }
+
+      .st130 {
+        stroke-width: .5px;
+      }
+
+      .st134 {
+        stroke-width: .1px;
+      }
+
+      .st135 {
+        stroke-width: .6px;
+      }
+
+      .st138 {
+        stroke-width: .7px;
+      }
+
+      .st139 {
+        stroke-width: 0px;
+      }
+
+      .st140 {
+        stroke-width: .7px;
+      }
+
+      .st144 {
+        stroke-width: 0px;
+      }
+
+      .st145 {
+        stroke-width: .8px;
+      }
+
+      .st146 {
+        stroke-width: 0px;
+      }
+
+      .st147 {
+        stroke-width: .8px;
+      }
+
+      .st148 {
+        stroke-width: .8px;
+      }
+
+      .st149 {
+        stroke-width: 0px;
+      }
+
+      .st152 {
+        stroke-width: .8px;
+      }
+
+      .st153 {
+        stroke-width: 1.1px;
+      }
+
+      .st154 {
+        stroke-width: 1.1px;
+      }
+
+      .st155 {
+        stroke-width: 1.1px;
+      }
+
+      .st157 {
+        stroke-width: 1.1px;
+      }
+
+      .st158 {
+        stroke-width: 1.2px;
+      }
+
+      .st163, .st164 {
+        font-size: 6.5px;
+      }
+    </style>
+  </defs>
+  <path class="st166" d="M-1.6,0h795v358H-1.6V0Z"/>
+  <path class="st68" d="M469.4,295l-319.9,16.9"/>
+  <path class="st142" d="M234.9,279l-85.3,32.5"/>
+  <path class="st23" d="M253.4,295.3c-.6-11.7,25.7-7.1,58.7,10.3,33,17.4,59.8,31.8,59.8,32.2"/>
+  <path class="st23" d="M474.2,299.7l-100.1,34.8"/>
+  <path class="st70" d="M251.1,249.5c.6,11.7,27.8,35.3,60.8,52.7,33,17.4,59.7,31.2,59.7,30.8"/>
+  <path class="st159" d="M247.4,253.3c2.5,9.7,40.4,29.3,84.6,44,44.3,14.6,80.1,26.1,80,25.7"/>
+  <path class="st14" d="M474.8,300.4l-59.9,24"/>
+  <path class="st74" d="M257.1,291.5c-2.5-9.7,31.4-5.6,75.7,9,44.3,14.6,80.2,26.8,80.3,27.2"/>
+  <path class="st21" d="M265.2,283.5l22.7,19.4"/>
+  <path class="st93" d="M469.4,295l-178.8,9"/>
+  <path class="st126" d="M468.3,293.9h-122.9"/>
+  <path class="st86" d="M474.8,287.4c7.7,3.1,19.3-23.8,25.8-60.1,6.5-36.3,6.4-68-.4-70.7"/>
+  <path class="st71" d="M470.8,291.4l-74.5-9.4"/>
+  <path class="st160" d="M468.8,294.4l-273.5,5.9"/>
+  <path class="st120" d="M471,296.5l-198.2,26.3"/>
+  <path class="st71" d="M470.8,296.3l-101,12.2"/>
+  <path class="st109" d="M471,296.6c7.9-1.1-10.9-10.8-42-21.8-31.1-11-56.2-20-56-20"/>
+  <path class="st6" d="M511,291.2c-7.9,1.1-39.5-7-70.6-18-31.1-11-56.5-19.9-56.6-19.9"/>
+  <path class="st153" d="M479.7,282.5l-54.4-54.6"/>
+  <path class="st71" d="M470.4,295.9l-282.9,28.2"/>
+  <path class="st81" d="M492.6,272.8l11.7-152.6"/>
+  <path class="st3" d="M474.8,300.4c6.5-2.6-20.9-26.3-61.2-52.9-40.3-26.6-73.3-48-73.9-47.8"/>
+  <path class="st138" d="M471.1,296.7c9.5-1.3-8.6-19-40.3-39.4-31.7-20.4-59.1-36.7-61.1-36.4"/>
+  <path class="st12" d="M471.4,290.7l-157.2-25.3"/>
+  <path class="st72" d="M471.2,291l-132.6-19.1"/>
+  <path class="st119" d="M472.9,289.3c8.1,2.1-1.5-18.6-21.4-46.1-19.9-27.5-38.8-50.5-42.1-51.3"/>
+  <path class="st78" d="M472.1,290.1c8.9,1.8,12.6-41.8,8.3-97.5-4.4-55.7-12.7-101.7-18.7-103"/>
+  <path class="st43" d="M507,287.2c-7.2,3-33.6-22.8-58.9-57.7-25.3-34.9-42.9-64.4-39.4-65.9"/>
+  <path class="st13" d="M509.8,297.7c-8.9-1.8-19.7-48.4-24.1-104.1-4.4-55.7-3.1-99.8,2.9-98.6"/>
+  <path class="st19" d="M510.8,291.1c-9.5,1.3-42.8-14.1-74.5-34.5-31.7-20.4-55.8-37.2-53.7-37.5"/>
+  <path class="st24" d="M507.1,300.4c-7.7-3.1-8.7-35.1-2.1-71.4,6.5-36.3,17.3-63.6,24.1-60.8"/>
+  <path class="st60" d="M507.2,287.4c-6.5,2.6-44.4-16.9-84.7-43.5-40.3-26.6-72.5-48.4-72-48.6"/>
+  <path class="st127" d="M475.3,286.9l-99-44.3"/>
+  <path class="st151" d="M470.5,291.7c8.4.9-21-30.2-65.6-69.5-44.6-39.3-83.6-71.4-87-71.8"/>
+  <path class="st102" d="M471.6,297.2l-145.2,25"/>
+  <path class="st87" d="M481.6,280.6c4.2,6,44-19.5,88.7-57.1,44.8-37.6,75.5-75.9,68.7-85.7"/>
+  <path class="st63" d="M482.4,279.8l-106.8-174.9"/>
+  <path class="st71" d="M472.2,297.7l-177.6,36.3"/>
+  <path class="st132" d="M472.3,289.9c8.7,1.8,2.4-43-14-100.2s-31.7-104-34.2-104.5"/>
+  <path class="st109" d="M469.9,295.5l-240.9,18.2"/>
+  <path class="st31" d="M500.3,307.2c-4.2-6,28.6-41.4,73.4-79,44.8-37.6,86.6-60.2,93.5-50.4"/>
+  <path class="st147" d="M485,277.2l-23.1-64"/>
+  <path class="st51" d="M509.7,297.8c-8.7-1.8-29.1-49.7-45.5-106.9s-27.8-103.1-25.3-102.6"/>
+  <path class="st129" d="M473.2,289l-143.2-39.2"/>
+  <path class="st85" d="M490.8,316.4c0-11.4,25.7-23.3,57.2-26.6,31.5-3.3,57,1.5,56.9,10.8"/>
+  <path class="st36" d="M509,298.5c-8.1-2.1-30.8-26-50.8-53.5-19.9-27.5-33.4-49.1-30-48.3"/>
+  <path class="st0" d="M511.5,296.1c-8.4-.9-51.4-33.5-96.1-72.7-44.6-39.3-78.1-70.8-74.7-70.5"/>
+  <path class="st68" d="M479.5,282.7l-49.8-49"/>
+  <path class="st41" d="M491.2,271.4c0,11.4,25.4,18,56.9,14.8s57.1-13.4,57.2-22.6"/>
+  <path class="st107" d="M475,300.6c7.2-3-7.5-33.7-32.8-68.6-25.3-34.9-48.7-62-52.3-60.5"/>
+  <path class="st61" d="M469.3,292.9l-280.8-13.3"/>
+  <path class="st67" d="M684.7,285.2c5.7-3.7,3.9-35.7-3.9-71.4-7.8-35.8-11.3-66.6-7.7-69"/>
+  <path class="st32" d="M452.8,129.4c-1.8-1.6,44,5.6,102.3,16.1,58.3,10.4,12.5,3.2-102.3-16.1"/>
+  <path class="st135" d="M443.7,155c-.3-.3,44.7-1.4,100.6-2.4,55.9-1,10.8,0-100.6,2.4"/>
+  <path class="st79" d="M714.1,194.6l-41-24.7"/>
+  <path class="st46" d="M457.8,167.8c.3.3,45.9-.3,101.8-1.3,55.9-1,10.3-.4-101.8,1.3"/>
+  <path class="st33" d="M521.7,82.5c-.4-.6,30.4,18.5,68.8,42.8,38.4,24.2,71.8,47.8,74.7,52.6"/>
+  <path class="st130" d="M431.3,110.6c1.8,1.6,50.5,11.3,108.8,21.7,58.3,10.4,9.6.7-108.8-21.7"/>
+  <path class="st52" d="M261.7,286.9c-3.5-5.3,83.4-35.3,194.1-67,110.7-31.6,204.8-50.5,210.3-42.2"/>
+  <path class="st156" d="M678.2,289.4c-5.7,3.7-16.6-22.3-24.5-58.1-7.8-35.8-17.1-62.9-20.6-60.6"/>
+  <path class="st91" d="M639.3,225.6c1.2.1,3.8-15.1,5.7-34,2-18.9-3.4-34.9-12-35.8"/>
+  <path class="st148" d="M520.2,133.1c2.3,4,32.5,10.3,67.4,14.1,34.9,3.7,59.2-.4,54.1-9.4"/>
+  <path class="st112" d="M721.9,227.8l-50.5-51.3"/>
+  <path class="st38" d="M532.8,155.4c-2.3-4,24.2-4.3,59.1-.5,34.9,3.7,67.4,14,72.4,22.9"/>
+  <path class="st79" d="M680.5,282.9l-23-105.1"/>
+  <path class="st10" d="M652.7,226.9c-1.2-.1-.6-15.6,1.3-34.5,2-18.9,10.5-33.5,19-32.6"/>
+  <path class="st123" d="M705.8,261.3l-42.5-83.5"/>
+  <path class="st86" d="M242.8,257.8c3.5,5.3,96-16,206.7-47.6,110.7-31.6,196-64.1,190.6-72.4"/>
+  <path class="st121" d="M674,227.6s-6.1-16.4-13.7-36.8c-7.6-20.3-19.8-40.3-27.2-44.6"/>
+  <path class="st45" d="M687.2,235.2s-6.2-16.5-13.8-36.8c-7.6-20.3-7.7-33.3-.3-29"/>
+  <path class="st151" d="M506.6,57.5c.4.6,31.8,20.8,70.1,45,38.4,24.2,67.1,40,64.2,35.2"/>
+  <path class="st3" d="M262.3,258.4l110.2-153.5"/>
+  <path class="st136" d="M426.1,115.9l-49.5-12.8"/>
+  <path class="st4" d="M258.8,289.8l12,31.8"/>
+  <path class="st90" d="M434.7,132.8l-59.9,104.8"/>
+  <path class="st57" d="M271.3,267.4l98.3-25.5"/>
+  <path class="st73" d="M515.8,151l-139.5,87.9"/>
+  <path class="st89" d="M249,251.6l-3-19.1"/>
+  <path class="st143" d="M517.9,135.5l-30.3-30.6"/>
+  <path class="st131" d="M683,223.4c3.4-11.2-39.8-51.4-96.6-89.8-56.7-38.4-104.7-62.9-107.2-54.7"/>
+  <path class="st89" d="M678.7,284.7l-190.7-180.3"/>
+  <path class="st114" d="M454.3,151.5l16.1-45.7"/>
+  <path class="st44" d="M459.5,122.7c-8.6-1.3-8.2-8.6.9-16.2,9.1-7.6,21.8-13,28.2-12"/>
+  <path class="st145" d="M237.4,263.3c5.8,3.6,60.5-33.8,122-83.5,61.6-49.7,107.4-92.5,102.3-95.6"/>
+  <path class="st9" d="M500.8,63.3c5.8,2.9,1.8,10.3-9,16.4-10.8,6.2-24.3,8.8-30.1,5.9"/>
+  <path class="st80" d="M267.1,281.5c-5.8-3.6,39.3-46.8,100.9-96.5,61.6-49.7,115.5-87.5,120.6-84.4"/>
+  <path class="st100" d="M424.6,117.3c8.6,1.3,23-3.8,32.2-11.4,9.1-7.6,11.4-14.6,4.9-15.6"/>
+  <path class="st66" d="M641.9,223l-153.3-120.1"/>
+  <path class="st58" d="M678.2,239.4c-3.4,11.2-52.1-10.9-108.9-49.2-56.7-38.4-100.7-76.2-98.2-84.3"/>
+  <path class="st125" d="M527.5,76.7c-5.8-2.9-19.3-.3-30.1,5.9-10.8,6.2-14.7,13.6-8.9,16.5"/>
+  <path class="st67" d="M453,172.7l5.4,27.7"/>
+  <path class="st48" d="M246.6,290.8c2.4-7.9,50.8-29.1,108.1-47.2,57.3-18.1,103.3-31.7,102.9-30.4"/>
+  <path class="st14" d="M445.4,136.7l12.9,63.7"/>
+  <path class="st76" d="M257.9,254c-2.4,7.9,42-.3,99.3-18.4,57.3-18.1,104-33.9,104.4-35.2"/>
+  <path class="st77" d="M508.5,84.3l-46.3,116.1"/>
+  <path class="st99" d="M517.5,152.7l-51.8,48.4"/>
+  <path class="st79" d="M229.9,270.7l-57-4.2"/>
+  <path class="st96" d="M240.4,260.3l-39.1-39.8"/>
+  <path class="st15" d="M243.3,287.4l-14.9,25"/>
+  <path class="st97" d="M235.2,265.5l-62.1-25.2"/>
+  <path class="st118" d="M244.7,255.9c4,8.7,20.6,14.1,37,12.1s29.5-4.4,29-5.3"/>
+  <path class="st146" d="M259.8,288.8c-4-8.7,6.1-17.4,22.6-19.4,16.5-2,30.1-2.9,30.6-2"/>
+  <path class="st59" d="M237.1,263.5l-57.6-33.9"/>
+  <path class="st83" d="M520.3,133l-7-12.7"/>
+  <path class="st124" d="M457.4,154.7l34.7-35.3"/>
+  <path class="st69" d="M721.6,228.1l-201.8-114.1"/>
+  <path class="st53" d="M502.6,78.5c4.1-3,5.4,2.6,3,12.5-2.4,9.9-9,21.3-14.7,25.5"/>
+  <path class="st25" d="M678.8,284.6l-160.2-165.2"/>
+  <path class="st64" d="M683.7,224c1.2-3-37-33.5-85.4-68.2s-87.3-63.5-86.9-64.5"/>
+  <path class="st23" d="M642,222.8l-122.4-104.9"/>
+  <path class="st77" d="M705.1,262l-185.3-144.9"/>
+  <path class="st29" d="M243.3,287.5c1.8-3.1,59.9-42.8,129.8-88.8,69.9-46,125.3-81.1,123.7-78.4"/>
+  <path class="st152" d="M525.7,61.5c-4.1,3-9.4,13.5-11.8,23.4s.2,14.5,5.9,10.3"/>
+  <path class="st72" d="M455.4,126.8c-5.4-2.8,4.4-8.2,21.9-12.1,17.5-3.9,36.6-4.6,42.6-1.5"/>
+  <path class="st107" d="M677.6,238.7c-1.2,3-41.5-22.7-89.9-57.4-48.4-34.7-87.9-62-88.3-61.1"/>
+  <path class="st155" d="M261.2,257.3c-1.8,3.1,53.4-31.8,123.3-77.7,69.9-46,127.9-85.5,129.5-88.2"/>
+  <path class="st157" d="M428.7,113.2c5.4,2.8,24,1.8,41.5-2.1,17.5-3.9,26.8-9.6,20.8-12.7"/>
+  <path class="st75" d="M243.5,257.1l-26.8-47.1"/>
+  <path class="st2" d="M250,294.1c1.1-10.3,39.2-36.1,85.2-57.7,46-21.6,83-36.2,82.6-32.7"/>
+  <path class="st20" d="M498,66.2c5.6,1.3-11.3,30.2-37.6,64.5-26.3,34.3-49.2,61.8-51,61.3"/>
+  <path class="st15" d="M514.6,149.8l-86.4,40.1"/>
+  <path class="st101" d="M530.3,73.8c-5.6-1.3-31.4,25.4-57.7,59.7-26.3,34.3-46.2,62.5-44.3,62.9"/>
+  <path class="st133" d="M444.2,168.2l-16.7,17.2"/>
+  <path class="st14" d="M426.7,115.2c5.9,1.8,5.4,19.9-1,40.4-6.4,20.5-13.7,36.5-16.3,35.6"/>
+  <path class="st60" d="M457.4,124.8c-5.9-1.8-15.8,13.3-22.2,33.8-6.4,20.5-9.5,37.8-6.9,38.6"/>
+  <path class="st154" d="M254.5,250.7c-1.1,10.3,35.3,1.2,81.3-20.4,46-21.6,83.6-41.9,84-45.4"/>
+  <path class="st71" d="M232.7,268l-55.8-12.6"/>
+  <path class="st157" d="M242,258.6c4.8,6.4,25.9-15.4,47.2-48.7,21.3-33.3,35.5-64.5,31.7-69.7"/>
+  <path class="st37" d="M251.5,295.7c.3-11.2,28.4-32,62.6-46.5,34.2-14.5,61.9-24.7,61.8-22.8"/>
+  <path class="st17" d="M250.9,295.1c.7-11.4,22-37.4,47.7-58.1,25.7-20.7,46.4-35.9,46.3-34.1"/>
+  <path class="st30" d="M241.8,285.9c3.2-4.2,64.6-32.2,137.1-62.6,72.5-30.4,128.3-51.2,124.7-46.6"/>
+  <path class="st42" d="M248.1,292.3c2-9.6,40.8-28.8,86.7-43,45.9-14.2,82.6-23.5,82.1-20.8"/>
+  <path class="st22" d="M230.6,274.8l-42.1,4.6"/>
+  <path class="st28" d="M245.8,290c2.8-7.7,38-37.4,78.6-66.3,40.6-29,72.6-49.9,71.5-46.7"/>
+  <path class="st88" d="M262.7,258.8c-3.2,4.2,52.9-17.1,125.4-47.5,72.5-30.4,134.1-58.8,137.7-63.5"/>
+  <path class="st133" d="M261.8,286.8l30.5,46.1"/>
+  <path class="st2" d="M250.8,295c.8-12.1,21.7-17.1,46.8-11.1,25.1,6,45.4,11.6,45.3,12.6"/>
+  <path class="st72" d="M236,280.1l-40.7,19.5"/>
+  <path class="st50" d="M262.5,286.2c-4.8-6.4,8.6-38.7,29.9-72,21.3-33.3,41.6-56.2,45.4-51.1"/>
+  <path class="st7" d="M246.2,290.3c3-9,33.7-20.4,68.5-25.5s62.5-7.5,61.8-5.4"/>
+  <path class="st115" d="M253.6,249.7c-.7,11.4,19.6,3.9,45.2-16.8,25.7-20.7,46.5-38.9,46.6-40.8"/>
+  <path class="st127" d="M256.9,253c-1.2,4.9,38-32.7,87.5-83.9,49.5-51.2,89.3-91.4,88.9-89.7"/>
+  <path class="st49" d="M247.6,291.8c1.2-4.9,42.2-50.4,91.7-101.7,49.5-51.2,89.9-94.2,90.4-95.9"/>
+  <path class="st158" d="M245.4,255.2c2.8,6.9,84,14.7,181.4,17.4,97.4,2.7,173.9-1.4,170.9-9"/>
+  <path class="st14" d="M250,250.6c1.2,11.3,18.7,15.2,39.3,8.7,20.5-6.5,37.1-12.7,37-13.9"/>
+  <path class="st104" d="M254.5,294.2c-1.2-11.3,14.5-25.8,35.1-32.3,20.5-6.5,37.3-10.8,37.4-9.7"/>
+  <path class="st128" d="M258.3,254.4c-3,9,22.7,12.2,57.5,7.1,34.8-5.1,63.6-10.9,64.3-12.9"/>
+  <path class="st122" d="M258.7,254.8c-2.8,7.7,27.9-9.6,68.5-38.6,40.6-29,74.5-55,75.6-58.1"/>
+  <path class="st18" d="M266.5,282.2l57.2,39.3"/>
+  <path class="st103" d="M253,249.1c-.3,11.2,27.1,8.6,61.3-5.9,34.2-14.5,62-27.7,62.1-29.6"/>
+  <path class="st96" d="M256.3,252.5c-2,9.6,33.6,5.9,79.5-8.3,45.9-14.2,83.5-27.8,84.1-30.5"/>
+  <path class="st94" d="M238.8,282.9l-51.4,40.3"/>
+  <path class="st35" d="M259.1,289.6c-2.8-6.9,74-10.4,171.4-7.7,97.4,2.7,178.9,11,181.9,18.7"/>
+  <path class="st62" d="M253.7,249.8c-.8,12.1,19,26.8,44,32.8,25.1,6,45.5,10,45.5,9.1"/>
+  <path class="st106" d="M530.1,74.1c-5.8-1.5-32,31.1-58.4,72.8-26.4,41.7-47,75.8-45.8,76"/>
+  <path class="st116" d="M516.3,151.5l-90.5,64.3"/>
+  <path class="st150" d="M498.3,65.9c5.8,1.5-10.9,36.5-37.4,78.2-26.4,41.7-48.8,75.3-49.9,75"/>
+  <path class="st58" d="M446.1,170.1l-23.6,43.5"/>
+  <path class="st5" d="M438.2,136.3l-18.1,77.3"/>
+  <path class="st134" d="M721.5,229.7l-97.9,44"/>
+  <path class="st54" d="M432.5,130.6l-25,27.8"/>
+  <path class="st1" d="M437.2,104.8l-3.4-10.5"/>
+  <path class="st34" d="M455.8,113.7c-4.3,2,28.7,39.8,73.7,84.6,45,44.7,87.1,78.5,94,75.3"/>
+  <path class="st122" d="M428.2,126.3c4.3-2,44.3,32.7,89.4,77.4,45,44.7,75.9,83.6,69,86.7"/>
+  <path class="st90" d="M432.6,130.7c4.2-4.8,23.9.9,43.9,12.5,20.1,11.7.4,6.1-43.9-12.5"/>
+  <path class="st8" d="M434.1,132.1l-53.7,81.5"/>
+  <path class="st84" d="M451.5,109.3c-4.2,4.8,8.7,18.1,28.7,29.8,20.1,11.7,7.2-1.6-28.7-29.8"/>
+  <path class="st110" d="M430.9,129l-80.4,64.3"/>
+  <path class="st146" d="M427,114.9c2.4.8-20.9,8.6-52,17.3-31.1,8.7-56.7,15.7-57.1,15.6"/>
+  <path class="st111" d="M457.1,125.1c-2.4-.8-29.6,5.6-60.7,14.4s-56,15.9-55.6,16.1"/>
+  <path class="st58" d="M432.5,130.6l-103,115"/>
+  <path class="st159" d="M455.3,152.5c-1.5,3-29.9,3.2-63.4.5-33.5-2.7-59-8.4-56.8-12.7"/>
+  <path class="st16" d="M497.9,66.3c3.5.8-35.1,19.7-86.2,42.2-51,22.6-93,40.7-93.8,40.5"/>
+  <path class="st100" d="M525.5,160.6c.4-5.5-43.5-8.3-98-6.2s-98.8,6-99,8.7"/>
+  <path class="st74" d="M446.3,170.4c1.5-3-24.5-7.5-58-10.2-33.5-2.7-62.5-1.4-64.7,3"/>
+  <path class="st108" d="M530.5,73.7c-3.5-.8-47.6,16.9-98.7,39.4-51,22.6-91.8,41-91.1,41.1"/>
+  <path class="st23" d="M527.6,127.9c-.4,5.5-44.8,11.6-99.3,13.7s-98.5,1.5-98.3-1.3"/>
+  <path class="st67" d="M704.8,262.3l-175.6-92.4"/>
+  <path class="st24" d="M704.1,264l-80.6,14.7"/>
+  <path class="st92" d="M502.8,78.6l-152.2,114.8"/>
+  <path class="st79" d="M640,224.8l-231.3-55.1"/>
+  <path class="st117" d="M651,223.8c1.3-.7-6.7,11.3-18,26.7-11.3,15.4-15.5,25.4-9.4,22.4"/>
+  <path class="st65" d="M641.1,228.7c-1.3.7-11.6,13.7-22.9,29.1-11.3,15.4-25.4,30.3-31.6,33.4"/>
+  <path class="st131" d="M641,223.8l-111.9-54.5"/>
+  <path class="st113" d="M681,241.4c-.1-2.9-17.1,6.1-38,20.1-20.9,14-37.5,31.4-37.3,39"/>
+  <path class="st149" d="M685.2,225.5c-.2.2-37.5-15-83.3-34.1-45.8-19.1-8.5-3.8,83.3,34.1"/>
+  <path class="st55" d="M680.2,221.3c.1,2.9-16.7,16.5-37.6,30.5-20.9,14-38,19.2-38.3,11.7"/>
+  <path class="st139" d="M672.1,229.5l-263.4-59.8"/>
+  <path class="st105" d="M676.1,237.3c.2-.2-36.8-15.9-82.7-34.9-45.8-19.1-8.8-3.4,82.7,34.9"/>
+  <path class="st27" d="M504.6,80.4l-122.8,133.4"/>
+  <path class="st75" d="M514.9,150.1l-132.4,66.7"/>
+  <path class="st140" d="M540.2,140.5c-6.7,1.8-14.8,7.4-18,12.4s-.2,7.5,6.9,5.5"/>
+  <path class="st26" d="M512.9,148c6.7-1.8,9.4.7,6.2,5.7-3.3,5-11.7,10.6-18.8,12.6"/>
+  <path class="st98" d="M516.5,151.7l-132.8,98.4"/>
+  <path class="st39" d="M522.6,157.7c1-3.3,19.4,24.8,41,62.9,21.7,38.1,37.8,73.8,36,79.9"/>
+  <path class="st11" d="M511.8,146.9l-103.1,18.9"/>
+  <path class="st137" d="M530.5,130.8c-1,3.3,15.8,36.9,37.5,74.9,21.7,38.1,40.7,64,42.5,57.9"/>
+  <path class="st27" d="M515.7,137.7l-76.8-46.4"/>
+  <path class="st144" d="M448,150.8l-14.6-56.5"/>
+  <path class="st141" d="M464,161.6l36.2.5"/>
+  <path class="st47" d="M454.7,170.9c1.5,3.7,37.3,33.7,79.9,67s77.6,61.3,78.1,62.6"/>
+  <path class="st108" d="M446.8,151.9c-1.5-3.7,31.8,20.3,74.4,53.6,42.6,33.3,76.7,59.3,76.2,58"/>
+  <path class="st65" d="M438.8,162.9l-30,3.5"/>
+  <path class="st145" d="M531.2,67.1c-6.8,1.2-12.2,22.8-12.1,48.3s4.6,45.4,10,44.5"/>
+  <path class="st139" d="M505.7,81.5l-123.4,167.1"/>
+  <path class="st40" d="M530.3,66.1c-3.7.9,13.7,49.1,38.8,107.6,25.1,58.6,49.5,105,54.5,103.8"/>
+  <path class="st56" d="M503.4,79.2l-94.8,80.4"/>
+  <path class="st3" d="M497.1,72.9c6.8-1.2,12.4,18.5,12.6,44,.1,25.5-4.1,46.9-9.4,47.8"/>
+  <path class="st82" d="M498.1,73.9c3.7-.9,27,45.8,52.1,104.4,25.1,58.6,41.4,107,36.4,108.2"/>
+  <path class="st10" d="M497.5,73.4l-58.7,11.9"/>
+  <path class="st95" d="M676.4,287l-52.9-3.6"/>
+  <path class="st165" d="M146.8,311v2.1c0,.2.2.3.3.3h2.1c.2,0,.3-.2.3-.3v-2.1c0-.2-.2-.3-.3-.3h-2.1c-.2,0-.3.2-.3.3Z"/>
+  <text class="st163" transform="translate(147.1 310.6)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(113.1 318.3)"><tspan x="0" y="0">Sphingobacterium</tspan></text>
+  <path class="st165" d="M369.4,333.6v3.6c0,.3.3.6.6.6h3.6c.3,0,.6-.3.6-.6v-3.6c0-.3-.3-.6-.6-.6h-3.6c-.3,0-.6.3-.6.6Z"/>
+  <text class="st163" transform="translate(370.7 334)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(343.7 341.7)"><tspan x="0" y="0">Alloprevotella</tspan></text>
+  <path class="st165" d="M410.2,323.5v3.6c0,.3.3.6.6.6h3.6c.3,0,.6-.3.6-.6v-3.6c0-.3-.3-.6-.6-.6h-3.6c-.3,0-.6.3-.6.6Z"/>
+  <text class="st163" transform="translate(411.5 324)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(374.9 331.6)"><tspan x="0" y="0">Alistipes_A_871400</tspan></text>
+  <path class="st165" d="M287.8,303v2.1c0,.2.2.3.3.3h2.1c.2,0,.3-.2.3-.3v-2.1c0-.2-.2-.3-.3-.3h-2.1c-.2,0-.3.2-.3.3Z"/>
+  <text class="st163" transform="translate(288.2 302.7)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(256.1 310.3)"><tspan x="0" y="0">Ruminococcus_D</tspan></text>
+  <path class="st168" d="M490.5,271.2l24.5,23-24.5,23-24.5-23,24.5-23Z"/>
+  <text class="st164" transform="translate(473.6 296.3)"><tspan x="0" y="0">Aminoacids</tspan></text>
+  <path class="st165" d="M632.1,142.1v31.7c0,2.9,2.5,5.3,5.5,5.3h33c3,0,5.5-2.4,5.5-5.3v-31.7c0-2.9-2.5-5.3-5.5-5.3h-33c-3,0-5.5,2.4-5.5,5.3Z"/>
+  <text class="st163" transform="translate(639.3 160.9)"><tspan x="0" y="0"> Prevotella</tspan></text>
+  <path class="st165" d="M371.8,100.7v3.6c0,.3.3.6.6.6h3.6c.3,0,.6-.3.6-.6v-3.6c0-.3-.3-.6-.6-.6h-3.6c-.3,0-.6.3-.6.6Z"/>
+  <text class="st163" transform="translate(373.1 101.1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(331.2 101)"><tspan x="0" y="0">Phocaeicola_A_858004</tspan></text>
+  <path class="st165" d="M270,321.9v2.1c0,.2.2.3.3.3h2.1c.2,0,.3-.2.3-.3v-2.1c0-.2-.2-.3-.3-.3h-2.1c-.2,0-.3.2-.3.3Z"/>
+  <text class="st163" transform="translate(270.3 321.6)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(245.8 329.3)"><tspan x="0" y="0">Pediococcus</tspan></text>
+  <path class="st165" d="M369,308.3v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(368.3 307.2)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(335.2 314.9)"><tspan x="0" y="0">Paucilactobacillus</tspan></text>
+  <path class="st165" d="M395.6,281.7v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(395 280.6)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(355.4 288.2)"><tspan x="0" y="0">Muricauda_A_821778</tspan></text>
+  <path class="st165" d="M369.6,238.5v5.1c0,.5.4.8.8.8h5.1c.5,0,.8-.4.8-.8v-5.1c0-.5-.4-.8-.8-.8h-5.1c-.5,0-.8.4-.8.8Z"/>
+  <text class="st163" transform="translate(371.9 239.7)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(336 247.3)"><tspan x="0" y="0">Liquorilactobacillus</tspan></text>
+  <path class="st167" d="M245.6,231.9v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(245 230.8)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(197.1 238.5)"><tspan x="0" y="0">Porphyromonas_A_859423</tspan></text>
+  <path class="st165" d="M461.7,82.3v20.2c0,1.9,1.5,3.4,3.4,3.4h20.2c1.9,0,3.4-1.5,3.4-3.4v-20.2c0-1.9-1.5-3.4-3.4-3.4h-20.2c-1.9,0-3.4,1.5-3.4,3.4Z"/>
+  <text class="st163" transform="translate(474.1 91)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(447.3 92.4)"><tspan x="0" y="0">Limosilactobacillus</tspan></text>
+  <path class="st165" d="M453.2,202v9.6c0,.9.7,1.6,1.6,1.6h9.6c.9,0,1.6-.7,1.6-1.6v-9.6c0-.9-.7-1.6-1.6-1.6h-9.6c-.9,0-1.6.7-1.6,1.6Z"/>
+  <text class="st163" transform="translate(458.6 205.4)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(438.2 209.6)"><tspan x="0" y="0">Ligilactobacillus</tspan></text>
+  <path class="st165" d="M172.2,266.2v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(171.5 265.1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(140.4 272.8)"><tspan x="0" y="0">Levilactobacillus</tspan></text>
+  <path class="st165" d="M200.6,219.9v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(199.9 218.8)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(173.8 226.5)"><tspan x="0" y="0">Enterocloster</tspan></text>
+  <path class="st165" d="M226.2,312.8v2.1c0,.2.2.3.3.3h2.1c.2,0,.3-.2.3-.3v-2.1c0-.2-.2-.3-.3-.3h-2.1c-.2,0-.3.2-.3.3Z"/>
+  <text class="st163" transform="translate(226.6 312.4)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(193.9 320.1)"><tspan x="0" y="0">Lentilactobacillus</tspan></text>
+  <path class="st165" d="M172.3,239.9v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(171.7 238.8)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(141.6 246.4)"><tspan x="0" y="0">Clostridium_AQ</tspan></text>
+  <path class="st165" d="M309.5,263.3v3.6c0,.3.3.6.6.6h3.6c.3,0,.6-.3.6-.6v-3.6c0-.3-.3-.6-.6-.6h-3.6c-.3,0-.6.3-.6.6Z"/>
+  <text class="st163" transform="translate(310.8 263.7)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(280.2 271.4)"><tspan x="0" y="0">Latilactobacillus</tspan></text>
+  <path class="st165" d="M178.8,229.2v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(178.1 228.1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(152.8 235.7)"><tspan x="0" y="0">Burkholderia</tspan></text>
+  <path class="st165" d="M491,95v21.7c0,2,1.6,3.6,3.6,3.6h21.7c2,0,3.6-1.6,3.6-3.6v-21.7c0-2-1.6-3.6-3.6-3.6h-21.7c-2,0-3.6,1.6-3.6,3.6Z"/>
+  <text class="st163" transform="translate(504.4 104.5)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(487.5 108.7)"><tspan x="0" y="0">Lactobacillus</tspan></text>
+  <path class="st165" d="M216.2,209.3v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(215.5 208.2)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(181.8 215.9)"><tspan x="0" y="0">Blautia_A_141781</tspan></text>
+  <path class="st165" d="M409.4,187.2v14.1c0,1.3,1.1,2.4,2.4,2.4h14.1c1.3,0,2.4-1.1,2.4-2.4v-14.1c0-1.3-1.1-2.4-2.4-2.4h-14.1c-1.3,0-2.4,1.1-2.4,2.4Z"/>
+  <text class="st163" transform="translate(417.8 192.9)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(396.4 197.3)"><tspan x="0" y="0">Lacticaseibacillus</tspan></text>
+  <path class="st165" d="M176.2,255v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(175.5 253.9)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(149.7 261.6)"><tspan x="0" y="0">Akkermansia</tspan></text>
+  <path class="st165" d="M429,233.1v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(428.3 232)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(385.6 239.6)"><tspan x="0" y="0">Helicobacter_C_479931</tspan></text>
+  <path class="st168" d="M252,248.4l28.2,24-28.2,24-28.2-24,28.2-24Z"/>
+  <text class="st164" transform="translate(236.3 274.9)"><tspan x="0" y="0">Tripeptides</tspan></text>
+  <path class="st165" d="M411,215.5v11.1c0,1,.8,1.9,1.9,1.9h11.1c1,0,1.9-.8,1.9-1.9v-11.1c0-1-.8-1.9-1.9-1.9h-11.1c-1,0-1.9.8-1.9,1.9Z"/>
+  <text class="st163" transform="translate(417.4 219.7)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(380.5 227.3)"><tspan x="0" y="0">Escherichia_710834</tspan></text>
+  <path class="st168" d="M723.1,226.6l2.4,2.4-2.4,2.4-2.4-2.4,2.4-2.4Z"/>
+  <text class="st163" transform="translate(707.1 227.6)"><tspan x="0" y="0">Thia fatty</tspan></text>
+  <text class="st163" transform="translate(714 235.3)"><tspan x="0" y="0">acids</tspan></text>
+  <path class="st165" d="M185.8,278.5v2.1c0,.2.2.3.3.3h2.1c.2,0,.3-.2.3-.3v-2.1c0-.2-.2-.3-.3-.3h-2.1c-.2,0-.3.2-.3.3Z"/>
+  <text class="st163" transform="translate(186.1 278.1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(156.5 285.8)"><tspan x="0" y="0">Dysgonomonas</tspan></text>
+  <path class="st168" d="M714.4,194.4l.4.4-.4.4-.4-.4.4-.4Z"/>
+  <text class="st163" transform="translate(702.8 189.5)"><tspan x="0" y="0">Simple</tspan></text>
+  <text class="st163" transform="translate(703.6 197.2)"><tspan x="0" y="0">indole</tspan></text>
+  <text class="st163" transform="translate(699.3 204.9)"><tspan x="0" y="0">alkaloids</tspan></text>
+  <path class="st165" d="M184.7,323.3v2.1c0,.2.2.3.3.3h2.1c.2,0,.3-.2.3-.3v-2.1c0-.2-.2-.3-.3-.3h-2.1c-.2,0-.3.2-.3.3Z"/>
+  <text class="st163" transform="translate(185 322.9)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(141 330.6)"><tspan x="0" y="0">Desulfovibrio_R_446353</tspan></text>
+  <path class="st168" d="M442,97.9l22.1,22.1-22.1,22.1-22.1-22.1,22.1-22.1Z"/>
+  <text class="st164" transform="translate(433.2 117)"><tspan x="0" y="0">Purine</tspan></text>
+  <text class="st162" transform="translate(423.4 122.5)"><tspan x="0" y="0">nucleos(t)ides</tspan></text>
+  <path class="st165" d="M317.9,143.1v17.1c0,1.6,1.3,2.9,2.9,2.9h17.1c1.6,0,2.9-1.3,2.9-2.9v-17.1c0-1.6-1.3-2.9-2.9-2.9h-17.1c-1.6,0-2.9,1.3-2.9,2.9Z"/>
+  <text class="st163" transform="translate(328.3 150.3)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(294.1 158)"><tspan x="0" y="0">Cryptobacteroides</tspan></text>
+  <path class="st168" d="M707,260.1l3.4,3.4-3.4,3.4-3.4-3.4,3.4-3.4Z"/>
+  <text class="st163" transform="translate(689.3 266)"><tspan x="0" y="0">Polyamines</tspan></text>
+  <path class="st165" d="M339.8,193.5v8.1c0,.7.6,1.3,1.3,1.3h8.1c.7,0,1.3-.6,1.3-1.3v-8.1c0-.7-.6-1.3-1.3-1.3h-8.1c-.7,0-1.3.6-1.3,1.3Z"/>
+  <text class="st163" transform="translate(344.1 196.1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(305.1 203.8)"><tspan x="0" y="0">Companilactobacillus</tspan></text>
+  <path class="st168" d="M646,218.9l7.4,7.4-7.4,7.4-7.4-7.4,7.4-7.4Z"/>
+  <text class="st163" transform="translate(625.7 228.7)"><tspan x="0" y="0">Lipopeptides</tspan></text>
+  <path class="st165" d="M323.2,246.3v5.1c0,.5.4.8.8.8h5.1c.5,0,.8-.4.8-.8v-5.1c0-.5-.4-.8-.8-.8h-5.1c-.5,0-.8.4-.8.8Z"/>
+  <text class="st163" transform="translate(325.6 247.5)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(304 255.1)"><tspan x="0" y="0">Collinsella</tspan></text>
+  <path class="st168" d="M680.6,221l10.4,10.4-10.4,10.4-10.4-10.4,10.4-10.4Z"/>
+  <text class="st163" transform="translate(669.9 230)"><tspan x="0" y="0">Linear</tspan></text>
+  <text class="st163" transform="translate(666 237.7)"><tspan x="0" y="0">peptides</tspan></text>
+  <path class="st165" d="M369.7,215.2v9.6c0,.9.7,1.6,1.6,1.6h9.6c.9,0,1.6-.7,1.6-1.6v-9.6c0-.9-.7-1.6-1.6-1.6h-9.6c-.9,0-1.6.7-1.6,1.6Z"/>
+  <text class="st163" transform="translate(375.1 218.6)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(347.7 226.3)"><tspan x="0" y="0">Clostridium_T</tspan></text>
+  <path class="st168" d="M526.5,125l19.2,19.2-19.2,19.2-19.2-19.2,19.2-19.2Z"/>
+  <text class="st163" transform="translate(490.8 144.7)"><tspan x="0" y="0">Glycerophosphocholines</tspan></text>
+  <path class="st165" d="M192.5,299.2v2.1c0,.2.2.3.3.3h2.1c.2,0,.3-.2.3-.3v-2.1c0-.2-.2-.3-.3-.3h-2.1c-.2,0-.3.2-.3.3Z"/>
+  <text class="st163" transform="translate(192.9 298.9)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(144.4 306.6)"><tspan x="0" y="0">Carnobacterium_A_320743</tspan></text>
+  <path class="st168" d="M450.8,146.7l14.8,14.8-14.8,14.8-14.8-14.8,14.8-14.8Z"/>
+  <text class="st161" transform="translate(438.9 159.1)"><tspan x="0" y="0">Fatty acyl</tspan></text>
+  <text class="st161" transform="translate(438.3 166.7)"><tspan x="0" y="0">carnitines</tspan></text>
+  <path class="st165" d="M340.7,292.2v3.6c0,.3.3.6.6.6h3.6c.3,0,.6-.3.6-.6v-3.6c0-.3-.3-.6-.6-.6h-3.6c-.3,0-.6.3-.6.6Z"/>
+  <text class="st163" transform="translate(342 292.6)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(300.9 300.3)"><tspan x="0" y="0">Butyrivibrio_A_168226</tspan></text>
+  <path class="st168" d="M514.5,50l23.4,20-23.4,20-23.4-20,23.4-20Z"/>
+  <text class="st164" transform="translate(500.2 72.5)"><tspan x="0" y="0">Dipeptides</tspan></text>
+  <path class="st165" d="M500.2,151.5v21.7c0,2,1.6,3.6,3.6,3.6h21.7c2,0,3.6-1.6,3.6-3.6v-21.7c0-2-1.6-3.6-3.6-3.6h-21.7c-2,0-3.6,1.6-3.6,3.6Z"/>
+  <text class="st163" transform="translate(513.7 161)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(479.1 167)"><tspan x="0" y="0">Bifidobacterium_388775</tspan></text>
+  <path class="st168" d="M681.4,281.9l5.4,5.4-5.4,5.4-5.4-5.4,5.4-5.4Z"/>
+  <text class="st163" transform="translate(671.2 285.9)"><tspan x="0" y="0">Cyclic</tspan></text>
+  <text class="st163" transform="translate(666.8 293.6)"><tspan x="0" y="0">peptides</tspan></text>
+  <path class="st165" d="M291.8,333.3v2.1c0,.2.2.3.3.3h2.1c.2,0,.3-.2.3-.3v-2.1c0-.2-.2-.3-.3-.3h-2.1c-.2,0-.3.2-.3.3Z"/>
+  <text class="st163" transform="translate(292.2 333)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(248 340.6)"><tspan x="0" y="0">Bifidobacterium_387352</tspan></text>
+  <path class="st165" d="M372.9,250v8.1c0,.7.6,1.3,1.3,1.3h8.1c.7,0,1.3-.6,1.3-1.3v-8.1c0-.7-.6-1.3-1.3-1.3h-8.1c-.7,0-1.3.6-1.3,1.3Z"/>
+  <text class="st163" transform="translate(377.3 252.7)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(339.8 260.3)"><tspan x="0" y="0">Weissella_A_338544</tspan></text>
+  <path class="st165" d="M389.9,160.4v14.1c0,1.3,1.1,2.4,2.4,2.4h14.1c1.3,0,2.4-1.1,2.4-2.4v-14.1c0-1.3-1.1-2.4-2.4-2.4h-14.1c-1.3,0-2.4,1.1-2.4,2.4Z"/>
+  <text class="st163" transform="translate(398.3 166.1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(378.3 171.4)"><tspan x="0" y="0">Bacteroides_H</tspan></text>
+  <path class="st165" d="M584.8,266.8v30.5c0,2.8,2.3,5.1,5.1,5.1h30.5c2.8,0,5.1-2.3,5.1-5.1v-30.5c0-2.8-2.3-5.1-5.1-5.1h-30.5c-2.8,0-5.1,2.3-5.1,5.1Z"/>
+  <text class="st163" transform="translate(604 280.7)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(584.8 285.9)"><tspan x="0" y="0">Streptococcus</tspan></text>
+  <path class="st165" d="M337.8,271.6v.6c0,0,0,0,0,0h.6c0,0,0,0,0,0v-.6c0,0,0,0,0,0h-.6c0,0,0,0,0,0Z"/>
+  <text class="st163" transform="translate(337.2 270.5)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(302.6 278.2)"><tspan x="0" y="0">Bacillus_P_294101</tspan></text>
+  <path class="st165" d="M424.1,81.3v11.1c0,1,.8,1.9,1.9,1.9h11.1c1,0,1.9-.8,1.9-1.9v-11.1c0-1-.8-1.9-1.9-1.9h-11.1c-1,0-1.9.8-1.9,1.9Z"/>
+  <text class="st163" transform="translate(430.4 85.4)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(408.6 88.3)"><tspan x="0" y="0">Staphylococcus</tspan></text>
+  <path class="st165" d="M323.7,321.4v2.1c0,.2.2.3.3.3h2.1c.2,0,.3-.2.3-.3v-2.1c0-.2-.2-.3-.3-.3h-2.1c-.2,0-.3.2-.3.3Z"/>
+  <text class="st163" transform="translate(324 321.1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st163" transform="translate(303 328.7)"><tspan x="0" y="0">Bacillus_A</tspan></text>
+</svg>
