@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="413.580937pt" height="459.297705pt" viewBox="0 0 413.580937 459.297705" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-10-15T10:26:03.419665</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 459.297705 
+L 413.580937 459.297705 
+L 413.580937 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 49.260938 352.260205 
+L 406.380938 352.260205 
+L 406.380938 86.148205 
+L 49.260938 86.148205 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 58.188937 290.052356 
+L 129.612937 290.052356 
+L 129.612937 239.464658 
+L 58.188937 239.464658 
+L 58.188937 290.052356 
+z
+" clip-path="url(#pdf3b85cb17)" style="fill: #2020df; stroke: #4c4c4c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 147.468937 303.81053 
+L 218.892937 303.81053 
+L 218.892937 252.207852 
+L 147.468937 252.207852 
+L 147.468937 303.81053 
+z
+" clip-path="url(#pdf3b85cb17)" style="fill: #b4d4df; stroke: #4c4c4c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 236.748938 296.331924 
+L 308.172937 296.331924 
+L 308.172937 261.658613 
+L 236.748938 261.658613 
+L 236.748938 296.331924 
+z
+" clip-path="url(#pdf3b85cb17)" style="fill: #df2020; stroke: #4c4c4c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 326.028937 287.204736 
+L 397.452938 287.204736 
+L 397.452938 220.902608 
+L 326.028937 220.902608 
+L 326.028937 287.204736 
+z
+" clip-path="url(#pdf3b85cb17)" style="fill: #f7c8d0; stroke: #4c4c4c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m2535d6ef53" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2535d6ef53" x="93.900937" y="352.260205" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(96.52125 450.499268) rotate(-90)">WT 5XFAD_female</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m2535d6ef53" x="183.180937" y="352.260205" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(185.80125 440.82583) rotate(-90)">WT 5XFAD_male</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m2535d6ef53" x="272.460938" y="352.260205" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(275.08125 452.097705) rotate(-90)">Het 5XFAD_female</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m2535d6ef53" x="361.740938" y="352.260205" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(364.36125 442.424268) rotate(-90)">Het 5XFAD_male</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="mdb8a051828" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mdb8a051828" x="49.260938" y="333.513518" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="42.260938" y="337.312737" transform="rotate(-0 42.260938 337.312737)">−12</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mdb8a051828" x="49.260938" y="296.354728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="42.260938" y="300.153947" transform="rotate(-0 42.260938 300.153947)">−11</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mdb8a051828" x="49.260938" y="259.195939" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="42.260938" y="262.995158" transform="rotate(-0 42.260938 262.995158)">−10</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mdb8a051828" x="49.260938" y="222.037149" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="42.260938" y="225.836368" transform="rotate(-0 42.260938 225.836368)">−9</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#mdb8a051828" x="49.260938" y="184.87836" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="42.260938" y="188.677579" transform="rotate(-0 42.260938 188.677579)">−8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mdb8a051828" x="49.260938" y="147.71957" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="42.260938" y="151.518789" transform="rotate(-0 42.260938 151.518789)">−7</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mdb8a051828" x="49.260938" y="110.560781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="42.260938" y="114.359999" transform="rotate(-0 42.260938 114.359999)">−6</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="14.798438" y="219.204205" transform="rotate(-90 14.798438 219.204205)">Current_Natural_Log_Ratio</text>
+    </g>
+   </g>
+   <g id="line2d_12">
+    <path d="M 93.900937 290.052356 
+L 93.900937 334.704712 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 93.900937 239.464658 
+L 93.900937 197.483289 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 76.044938 334.704712 
+L 111.756937 334.704712 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 76.044938 197.483289 
+L 111.756937 197.483289 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <defs>
+     <path id="m08c2940aee" d="M -0 3.535534 
+L 2.12132 0 
+L -0 -3.535534 
+L -2.12132 -0 
+z
+" style="stroke: #4c4c4c; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#m08c2940aee" x="93.900937" y="98.244205" style="fill: #4c4c4c; stroke: #4c4c4c; stroke-linejoin: miter"/>
+     <use xlink:href="#m08c2940aee" x="93.900937" y="137.051321" style="fill: #4c4c4c; stroke: #4c4c4c; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path d="M 183.180937 303.81053 
+L 183.180937 340.164205 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 183.180937 252.207852 
+L 183.180937 198.235888 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 165.324938 340.164205 
+L 201.036937 340.164205 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 165.324938 198.235888 
+L 201.036937 198.235888 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21"/>
+   <g id="line2d_22">
+    <path d="M 272.460938 296.331924 
+L 272.460938 326.289625 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 272.460938 261.658613 
+L 272.460938 241.998353 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 254.604938 326.289625 
+L 290.316937 326.289625 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 254.604938 241.998353 
+L 290.316937 241.998353 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#m08c2940aee" x="272.460938" y="195.255343" style="fill: #4c4c4c; stroke: #4c4c4c; stroke-linejoin: miter"/>
+     <use xlink:href="#m08c2940aee" x="272.460938" y="207.816231" style="fill: #4c4c4c; stroke: #4c4c4c; stroke-linejoin: miter"/>
+     <use xlink:href="#m08c2940aee" x="272.460938" y="151.037956" style="fill: #4c4c4c; stroke: #4c4c4c; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_27">
+    <path d="M 361.740938 287.204736 
+L 361.740938 309.605598 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 361.740938 220.902608 
+L 361.740938 185.869575 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 343.884937 309.605598 
+L 379.596938 309.605598 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 343.884937 185.869575 
+L 379.596938 185.869575 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31"/>
+   <g id="line2d_32">
+    <path d="M 93.900937 78.164845 
+L 93.900937 72.842605 
+L 183.180937 72.842605 
+L 183.180937 78.164845 
+" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 272.460938 78.164845 
+L 272.460938 72.842605 
+L 361.740938 72.842605 
+L 361.740938 78.164845 
+" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 93.900937 50.682605 
+L 93.900937 45.360365 
+L 272.460938 45.360365 
+L 272.460938 50.682605 
+" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 183.180937 23.200365 
+L 183.180937 17.878125 
+L 361.740938 17.878125 
+L 361.740938 23.200365 
+" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 58.188937 260.185624 
+L 129.612937 260.185624 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 147.468937 282.766753 
+L 218.892937 282.766753 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 236.748938 282.607622 
+L 308.172937 282.607622 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 326.028937 242.554298 
+L 397.452938 242.554298 
+" clip-path="url(#pdf3b85cb17)" style="fill: none; stroke: #4c4c4c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 49.260938 352.260205 
+L 49.260938 86.148205 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 406.380938 352.260205 
+L 406.380938 86.148205 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 49.260937 352.260205 
+L 406.380938 352.260205 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 49.260937 86.148205 
+L 406.380938 86.148205 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="C0_0_4d4226feb4" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 -0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+"/>
+    </defs>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="101.457096" y="322.610633" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="90.992916" y="300.185403" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="90.08638" y="255.248978" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="89.598502" y="245.379885" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="88.343118" y="308.88291" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="89.098814" y="260.515412" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="96.306602" y="276.00678" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="96.063108" y="275.492741" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="99.24599" y="292.54258" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="102.118504" y="245.005933" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="86.063316" y="226.034192" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="92.082287" y="250.24849" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="101.427748" y="227.567317" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="91.360528" y="296.206523" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="99.639602" y="286.505887" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="94.684193" y="197.483289" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="94.615183" y="272.162124" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="101.697204" y="317.362293" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="86.642828" y="232.054365" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="96.059974" y="278.516164" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="86.973255" y="270.991615" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="91.579831" y="260.185624" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="97.008573" y="286.179017" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="94.56443" y="290.887158" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="97.279602" y="287.178895" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="96.811644" y="255.611183" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="88.169237" y="300.49507" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="91.850437" y="98.244205" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="97.538817" y="245.94024" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="93.894338" y="288.067589" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="86.25875" y="255.671052" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="92.011158" y="251.408279" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="97.580356" y="242.143735" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="95.895565" y="289.217554" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="92.360793" y="245.923322" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="99.988236" y="300.375591" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="87.266936" y="261.451485" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="94.474284" y="236.785581" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="87.170174" y="245.276721" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="88.292937" y="334.704712" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="96.335407" y="252.174196" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="92.870613" y="137.051321" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="99.705821" y="314.415925" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="96.379105" y="297.674553" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="100.700271" y="221.913553" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="88.200597" y="226.583568" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="85.351887" y="202.246269" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="88.129512" y="222.510158" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="95.791945" y="234.077834" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="88.656882" y="232.793271" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C0_0_4d4226feb4" x="96.462318" y="295.225075" style="fill: #0000ff; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="C1_0_58347963ca" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 -0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+"/>
+    </defs>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="175.481327" y="294.272655" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="182.530196" y="310.016678" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="187.450476" y="232.1584" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="192.047015" y="268.128086" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="187.62715" y="239.618832" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="181.687439" y="292.935513" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="183.339486" y="280.650479" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="187.91931" y="215.148955" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="188.480809" y="238.998368" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="177.018369" y="303.976223" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="183.616342" y="230.701498" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="177.295964" y="340.164205" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="181.744165" y="266.176424" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="177.73018" y="266.086531" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="174.712405" y="303.644837" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="175.829178" y="291.495583" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="177.125688" y="306.295262" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="185.648185" y="304.127166" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="186.293776" y="217.710283" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="175.146706" y="300.993895" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="189.379342" y="247.365256" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="185.539139" y="309.210828" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="178.661986" y="288.378532" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="190.357332" y="294.680682" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="182.067776" y="204.963211" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="181.610686" y="279.036582" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="181.041229" y="316.927413" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="187.042701" y="261.720122" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="185.594169" y="274.807511" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="185.280823" y="293.505504" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="181.168082" y="302.158467" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="185.983344" y="282.766753" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="177.809472" y="207.357972" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="178.056233" y="317.646001" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="177.785771" y="289.060225" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="191.897671" y="267.475262" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="189.286587" y="318.629784" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="178.764723" y="315.974433" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="191.807117" y="233.881263" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="181.791077" y="307.765394" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="183.072708" y="296.780417" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="181.269469" y="330.342913" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="184.54291" y="314.929956" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="177.76208" y="257.050447" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="188.376504" y="210.942585" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="185.82538" y="327.115053" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="185.845418" y="318.070324" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="189.674929" y="338.52387" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="187.6084" y="292.500292" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="181.01548" y="282.447843" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="182.87198" y="230.313656" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="189.892439" y="271.636636" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="186.616106" y="270.975482" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="190.976036" y="298.96112" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="190.972795" y="311.168769" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="186.482108" y="282.699369" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="176.708849" y="273.546154" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="174.910454" y="293.603012" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="190.981799" y="198.235888" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="180.094006" y="210.3861" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="180.128857" y="291.580283" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="182.427567" y="302.685195" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="181.358061" y="245.740146" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="175.885623" y="258.759603" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="190.579348" y="276.073459" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="186.250989" y="220.39582" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C1_0_58347963ca" x="177.420418" y="207.616087" style="fill: #add8e6; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="C2_0_80c3dd4a61" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 -0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+"/>
+    </defs>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="276.001376" y="291.909513" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="263.723882" y="303.041605" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="273.205595" y="256.914786" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="271.004752" y="314.906182" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="275.915049" y="291.558749" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="279.749649" y="288.384454" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="276.596414" y="290.250302" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="271.406129" y="268.013553" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="279.911741" y="260.117167" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="274.37248" y="258.350305" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="267.568512" y="286.488292" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="277.754143" y="302.833103" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="271.987241" y="252.590866" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="280.8216" y="278.704326" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="272.488333" y="254.904959" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="280.881147" y="299.640961" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="271.832968" y="272.846706" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="271.838118" y="267.863624" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="272.630047" y="261.109275" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="273.21872" y="249.460428" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="274.89318" y="289.059273" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="281.011808" y="326.289625" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="269.417558" y="282.485705" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="274.375674" y="249.64776" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="274.67213" y="195.255343" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="271.078393" y="256.079757" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="276.351904" y="286.453459" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="265.904251" y="266.605196" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="271.047016" y="262.207952" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="267.917433" y="241.998353" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="274.498007" y="207.816231" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="270.299172" y="151.037956" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="279.39391" y="282.011781" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="274.918253" y="302.975931" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="263.655069" y="272.54661" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="264.723247" y="298.313344" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="279.377973" y="282.092125" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="269.714278" y="291.091534" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="263.697119" y="290.376113" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="267.342851" y="312.354247" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="264.84046" y="282.607622" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="267.035292" y="305.623783" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="270.206235" y="294.350504" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="266.666384" y="299.771025" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="271.931952" y="302.948599" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="280.079563" y="289.906298" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="265.599022" y="312.731233" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="280.938506" y="280.280277" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="269.593366" y="275.176445" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="272.960966" y="287.895941" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C2_0_80c3dd4a61" x="276.359757" y="315.705433" style="fill: #ff0000; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <defs>
+     <path id="C3_0_a5a75f0530" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 -0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+"/>
+    </defs>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="370.045196" y="209.785028" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="368.711535" y="291.487058" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="368.249551" y="185.869575" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="355.309918" y="246.678975" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="365.009615" y="270.148947" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="369.046398" y="277.462175" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="368.798017" y="226.462056" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="353.312024" y="244.809334" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="370.194022" y="296.030376" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="361.713411" y="214.067105" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="358.94511" y="264.702227" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="354.903351" y="230.653435" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="358.909413" y="265.608462" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="357.230333" y="264.027671" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="370.621703" y="221.200285" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="360.271567" y="240.299262" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="364.973806" y="208.768496" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="356.022587" y="252.695043" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="356.204479" y="288.016127" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="360.954982" y="238.725842" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="362.145366" y="296.835731" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="363.795015" y="201.063668" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="358.613411" y="276.9508" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="360.473106" y="212.099933" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="355.283071" y="296.860224" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="360.982467" y="229.855823" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="356.979999" y="211.655122" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="358.76535" y="203.073161" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="355.164058" y="305.663098" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="362.731824" y="292.765829" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="367.592486" y="292.687991" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="366.659756" y="309.605598" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="362.684048" y="284.770562" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="361.538356" y="246.554057" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="367.395514" y="220.803383" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="358.375316" y="203.560284" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="370.604726" y="292.283299" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="367.20752" y="209.952524" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="356.923769" y="228.058595" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="361.852932" y="221.658813" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="360.643176" y="216.254965" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="358.935614" y="298.464615" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="361.396971" y="222.079296" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="366.321364" y="224.516032" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="368.539548" y="289.571881" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+    <g clip-path="url(#pdf3b85cb17)">
+     <use xlink:href="#C3_0_a5a75f0530" x="367.357346" y="230.141386" style="fill: #ffc0cb; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="138.540937" y="69.762918" transform="rotate(-0 138.540937 69.762918)">*</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="317.100937" y="69.762918" transform="rotate(-0 317.100937 69.762918)">***</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="183.180937" y="42.280678" transform="rotate(-0 183.180937 42.280678)">*</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="272.460938" y="14.798437" transform="rotate(-0 272.460938 14.798437)">***</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdf3b85cb17">
+   <rect x="49.260938" y="86.148205" width="357.12" height="266.112"/>
+  </clipPath>
+ </defs>
+</svg>
